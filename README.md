@@ -32,6 +32,7 @@
 git clone -b back-end https://github.com/gstechdeveloper/Zyora.git
 ```
 
+<br>
 <p>Na pasta do projeto rode:</p>
 
 ```php
@@ -46,8 +47,8 @@ php artisan migrate
 ```
 <br>
 
-<h5>Deve ser criado o primeiro usuário(ADMIN) no sistema, como não foi implementado ainda um recurso de criação no próprio APP deve ser feito uma requisição via post para a rota /register conforme abaixo:</h5>
-
+<h5>Deve ser criado o primeiro usuário(ADMIN) no sistema, como não foi implementado ainda um recurso de criação no próprio APP deve ser feito uma requisição via post usando o postman(ou outros programas) para a rota /register conforme abaixo:</h5>
+<br>
 <img width="2118" height="576" alt="image" src="https://github.com/user-attachments/assets/9b3be22b-21c0-49c8-b21f-4158680be3e8" />
-
+<br>
 <p>IMPORTANTE: Depois de criado os usuários, é sempre importante desativar essa rota, pois a mesma não é protegida por um middleware a mesma é somente utilizada para registrar usuários.</p>
