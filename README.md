@@ -32,6 +32,7 @@
 git clone https://github.com/gstechdeveloper/Zyora.git
 ```
 
+<br>
 <p>Na pasta do projeto rode:</p>
 
 ```js
