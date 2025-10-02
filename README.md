@@ -29,7 +29,7 @@
 <p>No terminal do windows cole o comando abaixo:</p>
 
 ```shell
-git clone https://github.com/gstechdeveloper/Zyora.git
+git clone -b front-end https://github.com/gstechdeveloper/Zyora.git
 ```
 
 <br>
