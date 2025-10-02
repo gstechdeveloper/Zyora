@@ -51,4 +51,14 @@ php artisan migrate
 <br>
 <img width="2118" height="576" alt="image" src="https://github.com/user-attachments/assets/9b3be22b-21c0-49c8-b21f-4158680be3e8" />
 <br>
+<br>
 <p>IMPORTANTE: Depois de criado os usuários, é sempre importante desativar essa rota, pois a mesma não é protegida por um middleware a mesma é somente utilizada para registrar usuários.</p>
+
+<br>
+
+<p>Usuários(user_type):</p>
+<p>Administrador - adm</p>
+<p>Operador - op</p>
+<p>Coletor - coletor</p>
+
+
