@@ -94,7 +94,7 @@
 
 <script setup>
 
-    import SearchFornecedorComponent from '@/components/Zyora/SearchFornecedorComponent .vue';
+    import SearchFornecedorComponent from '@/components/Zyora/SearchFornecedorComponent.vue';
     import { computed, onMounted, ref, watch } from 'vue';
     import { useStore } from 'vuex';
     import { useRoute } from 'vue-router';
